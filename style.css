@@ -1,0 +1,152 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #ecf0f1;
+  font-weight: 16px;
+}
+
+button {
+  background-color: #0088a9;
+  color: #ecf0f1;
+  width: 115px;
+  height: 37px;
+  font-weight: 16px;
+  border: none;
+  border-radius: 30px;
+}
+
+.nav1 {
+  margin-top: 150px;
+  margin-left: 30px;
+  background-color: #24252a;
+  height: 77px;
+  width: 1440px;
+  display: flex;
+  flex-direction: row;
+}
+
+.logo {
+  padding-top: 30px;
+  padding-left: 111px;
+}
+
+.nav_list {
+  display: flex;
+  line-height: 77px;
+  padding-left: 345px;
+}
+
+.srv {
+  padding-right: 40px;
+}
+
+.prj {
+  padding-right: 40px;
+}
+
+.btn {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 20px;
+  padding-left: 345px;
+}
+
+button2 {
+  background-color: #0088a9;
+  color: #ecf0f1;
+  width: 115px;
+  height: 37px;
+  font-weight: 16px;
+  border: none;
+  border-radius: 30px;
+}
+
+.nav2 {
+  background-color: #24252a;
+  height: 77px;
+  width: 1440px;
+  display: flex;
+  flex-direction: row;
+  margin-top: 200px;
+  margin-left: 30px;
+}
+
+.logo2 {
+  padding-top: 30px;
+  padding-left: 111px;
+}
+
+.nav_list2 {
+  display: flex;
+  line-height: 77px;
+  padding-left: 650px;
+}
+
+.srv2 {
+  padding-right: 40px;
+}
+
+.prj2 {
+  padding-right: 40px;
+}
+
+.btn2 {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 20px;
+  padding-left: 40px;
+}
+
+button3 {
+  background-color: #0088a9;
+  color: #ecf0f1;
+  width: 115px;
+  height: 37px;
+  font-weight: 16px;
+  border: none;
+  border-radius: 30px;
+}
+
+.nav3 {
+  background-color: #24252a;
+  height: 77px;
+  width: 1440px;
+  display: flex;
+  flex-direction: row;
+  margin-top: 200px;
+  margin-left: 30px;
+}
+
+.logo3 {
+  padding-top: 30px;
+  padding-left: 650px;
+}
+
+.nav_list3 {
+  display: flex;
+  line-height: 77px;
+  padding-left: 111px;
+}
+
+.srv3 {
+  padding-right: 40px;
+}
+
+.prj3 {
+  padding-right: 40px;
+}
+
+.btn3 {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 20px;
+  padding-left: 40px;
+}
